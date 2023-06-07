@@ -1,0 +1,13 @@
+SIYECAO:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&a四叶草"
+  item-lore:
+    - ""
+    - "&7幸运的象征"
+    - '&7击杀美西螈获得' 
+  item-id: SKULLc74501db75f9a50e73bcf810382686e64957e90de646e86fdd8e31d6fd4b0a0d
+  item-amount: 1
+  mob: AXOLOTL
+  chance: 100
+  recipe-display-item: AXOLOTL_SPAWN_EGG

@@ -1,0 +1,63 @@
+LITTLE_REACTOR:
+  category: juzi_generator
+  generator-name: '&2小型核反应堆'
+  generator-lore:
+  - ''
+  - '&7不需要冷却剂,但发电效率大大降低'
+  - ''
+  - '&7反应堆 &c×'
+  - '&7开水壶 &a√'
+  block-type: SKULLb3abb1a3df46e5bb093800354e0e268aa5591046546ec8da1d01754a46629400
+  progress-bar-item: FLINT_AND_STEEL
+  stats:
+    energy-production: 180
+    energy-buffer: 500
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: MEDIUM_CAPACITOR
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: COOLING_UNIT
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: TITANIUM
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: COOLING_UNIT
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: TITANIUM
+      amount: 1
+  recipes:
+    '1':
+      time-in-seconds: 240
+      input:
+        type: SLIMEFUN
+        id: URANIUM
+        amount: 1
+      output:
+        type: NONE
+        id: N/A
+        amount: N/A

@@ -1,0 +1,30 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: DIAMOND_CHESTPLATE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"精华胸甲"}],"text":""}'
+    attribute-modifiers:
+      GENERIC_ARMOR:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 9.0
+        name: GENERIC_ARMOR
+        slot: CHEST
+        uuid: ef31ddab-ffec-4841-a69a-ccd7ec96a368
+        operation: 0
+      GENERIC_ARMOR_TOUGHNESS:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 4.0
+        name: GENERIC_ARMOR_TOUGHNESS
+        slot: CHEST
+        uuid: a5b55ba5-be76-42b4-b819-4881c21519f5
+        operation: 0
+      GENERIC_KNOCKBACK_RESISTANCE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 0.2
+        name: GENERIC_KNOCKBACK_RESISTANCE
+        slot: CHEST
+        uuid: b59e5aa7-ca82-45f6-89ea-c0572185e71a
+        operation: 0

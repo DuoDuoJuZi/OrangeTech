@@ -1,0 +1,48 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Capacitors
+H2_CAPACITOR:
+  category: juzi_capacitor
+  capacitor-name: "&b氢燃料电容"
+  capacitor-lore:
+  - ''
+  - '&7绿色环保氢能源'
+  block-type: default
+  capacity: 5120
+  item-amount: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: COATING
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: H2
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: COATING
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SMALL_CAPACITOR
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HARDENED_METAL_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1

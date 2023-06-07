@@ -1,0 +1,49 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Geo-Resources
+TI:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&f钛"
+  item-lore:
+  item-id: SKULL324d23f0bb3e750ae4fe10a2a8490e8a028806b8a954c457be379d02b7d46502
+  max-deviation: 2
+  environment:
+    NORMAL: 8
+LI:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&f锂"
+  item-lore:
+  item-id: SKULL316e503e28148278d7406eb9c52dc0048460a72c5d09d7406044a1bf94bc44a4
+  max-deviation: 1
+  environment:
+    NORMAL: 10
+NA:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&f钠"
+  item-lore:
+  item-id: SKULLf0648c02141d1d0b342bca92e9b2a7c41489d9cf0195b5e98e45d69efe937e5e
+  max-deviation: 1
+  environment:
+    NORMAL: 16
+NORCRY:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&f天然晶体"
+  item-lore:
+  item-id: SKULL64b54f3e6a7016a14e76eedc53040f4960581bacac814ffb5816fae1a14b018d
+  max-deviation: 2
+  environment:
+    NORMAL: 2   
+DESERT_JT:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&e沙漠晶体"
+  item-lore:
+  - ''
+  - '&7沙漠特产自然资源'
+  item-id: SKULL8c40f3d9b684bfda1d87c500bd3f14d79ef83a0ee70e3cb53390dede73799e86
+  max-deviation: 2
+  biome:
+    DESERT: 32    
+    

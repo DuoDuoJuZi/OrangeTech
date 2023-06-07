@@ -1,0 +1,13 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: WRITTEN_BOOK
+  meta:
+    ==: ItemMeta
+    meta-type: BOOK_SIGNED
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"橘子科技游玩指南"}],"text":""}'
+    internal: H4sIAAAAAAAA/wEvAND/CgAACAAOZmlsdGVyZWRfdGl0bGUAGOapmOWtkOenkeaKgOa4uOeOqeaMh+WNlwBTZqGALwAAAA==
+    title: 橘子科技游玩指南
+    author: DuoDuoJuZi
+    pages:
+    - '{"text":"§6§l感谢游玩橘子科技\n制作者:多多橘子(DuoDuoJuZi)\n\n§f§0§l注意事项:\n1.四叶草击杀美西螈获得\n2.风力发电机判定位置在底部\n3.精华套装属性比原版合金套属性强大\n4.附魔金苹果需24K金块\n§b\n§l反馈BUG或有建议请联系\n1792249551"}'

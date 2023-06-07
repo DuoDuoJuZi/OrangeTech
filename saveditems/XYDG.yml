@@ -1,0 +1,16 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: FISHING_ROD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"幸运钓竿"}],"text":""}'
+    attribute-modifiers:
+      GENERIC_LUCK:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 5.0
+        name: GENERIC_LUCK
+        slot: HAND
+        uuid: 7e4b82b2-591e-46a2-8636-6d4781b22819
+        operation: 0

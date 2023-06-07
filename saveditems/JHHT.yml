@@ -1,0 +1,30 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: IRON_LEGGINGS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"精华护腿"}],"text":""}'
+    attribute-modifiers:
+      GENERIC_ARMOR:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 7.0
+        name: GENERIC_ARMOR
+        slot: LEGS
+        uuid: a7993250-4339-4cd8-ae38-c9dd09c3775b
+        operation: 0
+      GENERIC_ARMOR_TOUGHNESS:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 4.0
+        name: GENERIC_ARMOR_TOUGHNESS
+        slot: LEGS
+        uuid: b9934110-7d04-4b48-813d-32b342d95dc6
+        operation: 0
+      GENERIC_KNOCKBACK_RESISTANCE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 0.2
+        name: GENERIC_KNOCKBACK_RESISTANCE
+        slot: LEGS
+        uuid: 791e00f8-edcb-4f36-9c66-b19cbe7e3c12
+        operation: 0

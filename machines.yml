@@ -1,0 +1,932 @@
+NANGUA:
+  category: juzi_machine
+  machine-name: '&6南瓜雕刻机'
+  machine-lore:
+  - ''
+  - '&7可以雕刻南瓜'
+  block-type: SKULLf19ec71208baed45238d24c4306159779eab152ddf4e2dd030507bd2863e21e
+  progress-bar-item: SHEARS
+  stats:
+    energy-consumption: 5
+    energy-buffer: 10
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: CARVED_PUMPKIN
+      amount: 1
+    '2':
+      type: VANILLA
+      id: PUMPKIN_SEEDS
+      amount: 1
+    '3':
+      type: VANILLA
+      id: PUMPKIN
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    '8':
+      type: VANILLA
+      id: SHEARS
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: PUMPKIN
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: CARVED_PUMPKIN
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+DY_I:
+  category: juzi_machine
+  machine-name: '&c下届转换机'
+  machine-lore:
+  - ''
+  - '&7我在下届吗？'
+  block-type: SKULLfdef5ba8c10e537d55c620e8a8438cb2f26da8aa139301705c3a288138abb464
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 5
+    energy-buffer: 5
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: REINFORCED_CLOTH
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: GILDED_IRON
+      amount: 1
+    '5':
+      type: VANILLA
+      id: QUARTZ_BLOCK
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: GILDED_IRON
+      amount: 1
+    '7':
+      type: VANILLA
+      id: CRIMSON_NYLIUM
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '9':
+      type: VANILLA
+      id: WARPED_NYLIUM
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 4
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: NETHERRACK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+DY_II:
+  category: juzi_machine
+  machine-name: '&c下届转换机 &7- &eII'
+  machine-lore:
+  - ''
+  - '&7我在下届呢'
+  block-type: SKULLfdef5ba8c10e537d55c620e8a8438cb2f26da8aa139301705c3a288138abb464
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 10
+    energy-buffer: 10
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: REINFORCED_CLOTH
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: DY_I
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    '7':
+      type: VANILLA
+      id: CRIMSON_NYLIUM
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '9':
+      type: VANILLA
+      id: WARPED_NYLIUM
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 4
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: NETHERRACK
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+DY_MINE:
+  category: juzi_machine
+  machine-name: '&c下届产物转换机'
+  machine-lore:
+  - ''
+  - '&7科技的力量'
+  block-type: SKULL793bfc431900723f7fa2878649638017ce615d8d8cab8d2f070a61eb1aa00d02
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 30
+    energy-buffer: 30
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ENERGY_REGULATOR
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ZHOUCHENG
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: LI_BATTERY
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ZHOUCHENG
+      amount: 1
+    '7':
+      type: VANILLA
+      id: CRIMSON_NYLIUM
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '9':
+      type: VANILLA
+      id: WARPED_NYLIUM
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERRACK
+          amount: 4
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: GLOWSTONE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: GLOWSTONE
+          amount: 8
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: QUARTZ
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+END_I:
+  category: juzi_machine
+  machine-name: '&e末地转换机'
+  machine-lore:
+  - ' '
+  - '&7我在末地吗？'
+  block-type: SKULL4aea27aa93c944c46302bf4ea922885feea709f41c1df7616332eb246f90d38e
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 5
+    energy-buffer: 5
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: REINFORCED_CLOTH
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: GILDED_IRON
+      amount: 1
+    '5':
+      type: VANILLA
+      id: POPPED_CHORUS_FRUIT
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: GILDED_IRON
+      amount: 1
+    '7':
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '9':
+      type: VANILLA
+      id: PURPUR_BLOCK
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 4
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: END_STONE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+END_II:
+  category: juzi_machine
+  machine-name: '&e末地转换机 &7- &eII'
+  machine-lore:
+  - ''
+  - '&7我在末地呢'
+  block-type: SKULL4aea27aa93c944c46302bf4ea922885feea709f41c1df7616332eb246f90d38e
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 10
+    energy-buffer: 10
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: REINFORCED_CLOTH
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: GILDED_IRON
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: END_I
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: GILDED_IRON
+      amount: 1
+    '7':
+      type: VANILLA
+      id: END_STONE
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    '9':
+      type: VANILLA
+      id: PURPUR_BLOCK
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 1
+      input:
+        '1':
+          type: VANILLA
+          id: COBBLESTONE
+          amount: 4
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: END_STONE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+END_MINE:
+  category: juzi_machine
+  machine-name: '&e末地产物转换机'
+  machine-lore:
+  - ''
+  - '&7科技的力量'
+  block-type: SKULLc0a113516573b592ed10bbc0bec3df1a20871f675b1a3af766fb0b095f8c39ec
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 30
+    energy-buffer: 30
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: ENERGY_REGULATOR
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: ZHOUCHENG
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: LI_BATTERY
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: ZHOUCHENG
+      amount: 1
+    '7':
+      type: VANILLA
+      id: PURPUR_BLOCK
+      amount: 1
+    '8':
+      type: VANILLA
+      id: END_CRYSTAL
+      amount: 1
+    '9':
+      type: VANILLA
+      id: PURPUR_BLOCK
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: END_STONE
+          amount: 4
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: CHORUS_FRUIT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+CO2_COM:
+  category: juzi_machine
+  machine-name: '&8淀粉合成机'
+  machine-lore:
+  - ''
+  - '&7将二氧化碳合成为淀粉'
+  block-type: SKULL7746248520b16319d784c0f5abedae3b22345a386fc099d7c53d2a45d7e4c331
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 20
+    energy-buffer: 20
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SYNTHETIC_SAPPHIRE
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: MOTOR_II
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 2
+      input:
+        '1':
+          type: SLIMEFUN
+          id: CO2
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: STARCH
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+POTATO_COM:
+  category: juzi_machine
+  machine-name: '&e土豆合成机'
+  machine-lore:
+  - ''
+  - '&7将淀粉合成为土豆'
+  - '&7刀哥你能把屏幕前的土豆拿走吗'
+  block-type: SKULLcf4624ebf7d419a11e43ed0c2038d32cd09ad1d7a6c6e20f6339cbcfe386fd1c
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 10
+    energy-buffer: 10
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: POTATO
+      amount: 1
+    '2':
+      type: VANILLA
+      id: POTATO
+      amount: 1
+    '3':
+      type: VANILLA
+      id: POTATO
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: MOTOR_II
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: ENHANCED_AUTO_CRAFTER
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: SLIMEFUN
+          id: STARCH
+          amount: 4
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: POTATO
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+CA_POW:
+  category: juzi_machine
+  machine-name: '&f钙粉机'
+  machine-lore:
+  - ''
+  - '&7将骨头打磨成钙粉'
+  block-type: SKULL870b76521aefb6bc98422454c1549b29ed5699c985da7834bc62ba7cc6f4887a
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 20
+    energy-buffer: 20
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: BONE
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    '3':
+      type: VANILLA
+      id: BONE
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: LI_BATTERY
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: MOTOR_II
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: LI_BATTERY
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: VANILLA
+          id: BONE
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CA_P
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+CA_BONE:
+  category: juzi_machine
+  machine-name: '&f骨头磨粉机'
+  machine-lore:
+  - ''
+  - '&7将骨头打磨成钙粉'
+  - '&7同时输出骨粉'
+  block-type: SKULL870b76521aefb6bc98422454c1549b29ed5699c985da7834bc62ba7cc6f4887a
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 40
+    energy-buffer: 40
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: VANILLA
+      id: BONE
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    '3':
+      type: VANILLA
+      id: BONE
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: CA_NAGLASS
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: CA_POW
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: CA_NAGLASS
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: VANILLA
+          id: BONE
+          amount: 2
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: CA_P
+          amount: 1
+        '2':
+          type: VANILLA
+          id: BONE_MEAL
+          amount: 1
+FREEZER_4:
+  category: juzi_machine
+  machine-name: '&b冰箱 &7- &e IV'
+  machine-lore:
+  - ''
+  - '&7无限接近绝对零度...'
+  block-type: BLUE_STAINED_GLASS
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 30
+    energy-buffer: 512
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: CA_NAGLASS
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: MOTOR_II
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: FREEZER_3
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: MOTOR_II
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: TITANIUM
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: TITANIUM
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: TITANIUM
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: SLIMEFUN
+          id: H2_P
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: H2
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+H2_POW:
+  category: juzi_machine
+  machine-name: '&f氢气收集机'
+  machine-lore:
+  - ''
+  - '&7从大气中收集氢气'
+  block-type: SKULL920b3389f24db2a4cf6e9e54b272bb46315bd936eb927bd3f26c7429688bea6a
+  progress-bar-item: IRON_PICKAXE
+  stats:
+    energy-consumption: 30
+    energy-buffer: 30
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    '1':
+      type: SLIMEFUN
+      id: STEEL_HOSE
+      amount: 1
+    '2':
+      type: SLIMEFUN
+      id: COATING
+      amount: 1
+    '3':
+      type: SLIMEFUN
+      id: STEEL_HOSE
+      amount: 1
+    '4':
+      type: SLIMEFUN
+      id: PLAHOSE
+      amount: 1
+    '5':
+      type: SLIMEFUN
+      id: HEATED_PRESSURE_CHAMBER
+      amount: 1
+    '6':
+      type: SLIMEFUN
+      id: PLAHOSE
+      amount: 1
+    '7':
+      type: SLIMEFUN
+      id: TITANIUM
+      amount: 1
+    '8':
+      type: SLIMEFUN
+      id: TITANIUM
+      amount: 1
+    '9':
+      type: SLIMEFUN
+      id: TITANIUM
+      amount: 1
+  recipes:
+    '1':
+      speed-in-seconds: 3
+      input:
+        '1':
+          type: VANILLA
+          id: GLASS_BOTTLE
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: SLIMEFUN
+          id: H2_P
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1

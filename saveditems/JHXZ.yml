@@ -1,0 +1,30 @@
+item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3120
+  type: GOLDEN_BOOTS
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"精华靴子"}],"text":""}'
+    attribute-modifiers:
+      GENERIC_ARMOR:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 4.0
+        name: GENERIC_ARMOR
+        slot: FEET
+        uuid: 4549b1ba-1fd1-45b8-9e99-50fc9dba49a2
+        operation: 0
+      GENERIC_ARMOR_TOUGHNESS:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 4.0
+        name: GENERIC_ARMOR_TOUGHNESS
+        slot: FEET
+        uuid: fface944-4868-44e7-a2b9-863feaf52837
+        operation: 0
+      GENERIC_KNOCKBACK_RESISTANCE:
+      - ==: org.bukkit.attribute.AttributeModifier
+        amount: 0.2
+        name: GENERIC_KNOCKBACK_RESISTANCE
+        slot: FEET
+        uuid: e33c2e56-f962-44ca-8096-3c816d1ba663
+        operation: 0

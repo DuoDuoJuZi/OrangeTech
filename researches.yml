@@ -1,0 +1,153 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Researches
+nangua:
+  id: 50000
+  name: "南瓜农场！"
+  cost: 30
+  items:
+    - NANGUA
+diyu:
+  id: 50001
+  name: "下届与末地"
+  cost: 35
+  items:
+    - DY_I  
+    - DY_II
+    - END_I
+    - END_II 
+    - DY_MINE
+    - END_MINE    
+fengli:
+  id: 50002
+  name: "风力发电"
+  cost: 25
+  items:
+    - FLFD_I  
+    - FLFD_II
+    - FLFD_III
+    - FCYEPIAN
+hunhe:
+  id: 50003
+  name: "混合发电"
+  cost: 40
+  items:
+    - FLFD_IV
+ti:
+  id: 50004
+  name: "钛"
+  cost: 40
+  items:
+    - TITANIUM
+    - TI
+zhoucheng:
+  id: 50005
+  name: "精密机器"
+  cost: 38
+  items:
+    - END_STONE_POLISHED
+    - ZHOUCHENG
+    - MOTOR_II
+    - COATING
+    - STEEL_HOSE
+co:
+  id: 50006
+  name: "碳中和"
+  cost: 30
+  items:
+    - CO2
+    - STARCH    
+    - CO2_COM
+    - CO2_I
+    - CO2_II
+potatozhizao:
+  id: 50007
+  name: "刀哥你挡着屏幕了"
+  cost: 10
+  items:
+    - POTATO_COM
+lidianchi:
+  id: 50008
+  name: "锂"
+  cost: 20
+  items:
+    - LI
+    - LI_BATTERY
+ca:
+  id: 50009
+  name: "钙"
+  cost: 30
+  items:
+    - CA_POW
+    - CA_P
+    - CA
+    - CA_BONE
+bx:
+  id: 50010
+  name: "更高级的冰箱"
+  cost: 42
+  items:
+    - FREEZER_4
+hhhh:
+  id: 50011
+  name: "氢"
+  cost: 30
+  items:
+    - H2_P
+    - H2    
+    - H2_POW
+    - H2_CAPACITOR
+pla:
+  id: 50012
+  name: "塑料制品"
+  cost: 35
+  items:
+    - PLAHOSE   
+na:
+  id: 50013
+  name: "钠"
+  cost: 25
+  items:
+    - CA_NAGLASS
+    - NA 
+lfyd:
+  id: 50014
+  name: "开水壶"
+  cost: 40
+  items:
+    - LITTLE_REACTOR
+gjzb:
+  id: 50015
+  name: "高级装备"
+  cost: 50
+  items:
+    - NANO
+    - JINGTIBM
+syc:
+  id: 50016
+  name: "幸运之星"
+  cost: 15
+  items:
+    - SIYECAO  
+syc:
+  id: 50017
+  name: "沙漠探索"
+  cost: 30
+  items:
+    - DESERT_JT 
+jh:
+  id: 50018
+  name: "矿物精华"
+  cost: 60
+  items:
+    - JHORE  
+jinpp:
+  id: 50018
+  name: "金PP"
+  cost: 40
+  items:
+    - GOLD_APPLE_MI
+    - ENCH_APPLE_MI
+    
+    
+        
+        
+    

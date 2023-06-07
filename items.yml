@@ -1,0 +1,1894 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Items
+H2_P:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&f氢气瓶"
+  item-lore: 
+  item-id: POTION
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE  
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+CO2:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&7二氧化碳"
+  item-lore: 
+  item-id: SKULLe1886d13cc7351235280c753350e71007a3df0ca39c3d729cae3252efc4722f9
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:  
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1  
+STARCH:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&f淀粉"
+  item-lore: 
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1      
+H2:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&7固态氢"
+  item-lore: 
+  item-id: SKULL21172c389b9d6f80adec6b58ac4ca2a53ef549a65f5fdb74fcfbeac1ab4eb390
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE  
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+JHORE:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&b矿物&e精华"
+  item-lore: 
+  item-id: SKULL34dbbcddcc448160b69c0c7bad63ed8236116a484912fc7c8715c87b437456f
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE  
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: COAL_ORE
+      amount: 1
+    2:
+      type: VANILLA
+      id: REDSTONE_BLOCK
+      amount: 1      
+    3:
+      type: VANILLA
+      id: LAPIS_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: COPPER_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    7:
+      type: VANILLA
+      id: DIAMOND_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: EMERALD_BLOCK
+      amount: 1
+    9:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+             
+TITANIUM:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&7钛合金"
+  item-lore: 
+  - ''
+  - '&7钛合金具有强度高、耐蚀性好、耐热性高等特点'
+  item-id: SKULL38a4650ee3b74594112426004246df531e2c68b6ca47cab8fe2323b9790a1a5e
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: SMELTERY 
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: TI
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CARBONADO
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+LI_BATTERY:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&f锂金属电池"
+  item-lore: 
+  - ''
+  - '&7高级的电池'
+  item-id: SKULL161d3c655ffe2915488cd414bc23744fadd69986e757159d7c917c6048d5fccc
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE  
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: LI
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: LI
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BATTERY
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: LI
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: LI
+      amount: 1
+CA_P:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&f钙粉"
+  item-lore: 
+  item-id: SUGAR
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: NONE  
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1  
+CA:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&f钙"
+  item-lore: 
+  item-id: SKULLaeb1f4c777288d806a9c18f41db50ad64a84972703f52e7069de91a403e7ac0c
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE   
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: CA_P
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CA_P
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: CA_P
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CA_P
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: CA_P
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: CA_P
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CA_P
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: CA_P
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CA_P
+      amount: 1          
+CA_NAGLASS:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&f&l钙钠玻璃"
+  item-lore: 
+  - '' 
+  - '&7加入了强化合金,强度进一步提升'
+  item-id: SKULLee8cc9ad7a886ace4bf491052d08423602e57cd4092f5f35ec0caa85d9d24bd
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: SMELTERY    
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CA
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: NA
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1                
+END_STONE_POLISHED:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&e抛光末地石"
+  item-lore: 
+  item-id: SKULLe6388f746e6c5315f34471c6e5f1cf94ad76967db3600ae1212ff305f8242a72
+  item-amount: 8
+  placeable: false
+  crafting-recipe-type: ORE_CRUSHER 
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: END_STONE
+      amount: 64
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+ZHOUCHENG:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&7轴承"
+  item-lore: 
+  - ''
+  - '&7用于合成精密机器的重要零件'
+  item-id: SKULL55fddec36655d3b371c79d6113354877577089c1fcb1b3d8e00af32612f26f28
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    5:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: STEEL_INGOT
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+MOTOR_II:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&c高级马达"
+  item-lore: 
+  item-id: SKULL8cbca012f67e54de9aee72ff424e056c2ae58de5eacc949ab2bcd9683cec
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ELECTRIC_MOTOR
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: HEATING_COIL
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ADVANCED_CIRCUIT_BOARD
+      amount: 1      
+FCYEPIAN:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&e风车叶片"
+  item-lore: 
+  - ''
+  - '&7用于合成 &e风力发电机 &7的重要零件'
+  item-id: SKULL4025dd135b2e82e8cfd205cb27473f476735e8232b8238018cf15d34193024c1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: STICK
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: END_STONE_POLISHED
+      amount: 1
+    3:
+      type: VANILLA
+      id: STICK
+      amount: 1
+    4:
+      type: VANILLA
+      id: IRON_INGOT
+      amount: 1
+    5:
+      type: VANILLA
+      id: IRON_BLOCK
+      amount: 1
+    6:
+      type: VANILLA
+      id: IRON_INGOT
+      amount: 1
+    7:
+      type: VANILLA
+      id: STICK
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: END_STONE_POLISHED
+      amount: 1
+    9:
+      type: VANILLA
+      id: STICK
+      amount: 1
+COATING:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&b分子涂层"
+  item-lore: 
+  item-id: SKULLf8c15aa792ec91fc2daf57dbf27f37a886538541a180af88b1415ee37d12a7
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SYNTHETIC_SAPPHIRE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SYNTHETIC_SAPPHIRE
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: DAMASCUS_STEEL_INGOT
+      amount: 1
+PLAHOSE:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&8塑料软管"
+  item-lore: 
+  item-id: SKULL460d28c24b6328d4443779163cceee20aa07c0a70149a0dbcdc44cf924415bfc
+  item-amount: 8
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: PLASTIC_SHEET
+      amount: 1 
+STEEL_HOSE:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&7钢管"
+  item-lore: 
+  item-id: SKULL44a2eb2b10539cec202e1867f261a680d8729ae4abba957cdfa24538152fdc71
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: STEEL_PLATE
+      amount: 1        
+NANO:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&b&l纳米晶"
+  item-lore: 
+  - ''
+  - '&7制作高端装备的重要材料'
+  item-id: SKULL3a5a0715c62122ded65af4eae0969f23f571b0afa50cf93fc9ee2af4c7b34e12
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: NORCRY
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: NORCRY
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SYNTHETIC_DIAMOND
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SYNTHETIC_SAPPHIRE
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SYNTHETIC_SAPPHIRE
+      amount: 1        
+JINGTIBM:
+  category: juzi_item
+  item-type: CUSTOM
+  item-name: "&f&l晶体薄膜"
+  item-lore: 
+  - ''
+  - '&7制作高端装备的重要材料'
+  item-id: SKULL97658bde554d4cf3a7e588d7dbeba55434c69f779925038da6d7f1db219d5165
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: NANO
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: REINFORCED_PLATE
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: TITANIUM
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: TITANIUM
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: TITANIUM
+      amount: 1   
+XYDG:
+  category: juzi_armor
+  item-type: SAVEDITEM 
+  item-name: "&a&l幸运钓竿"
+  item-lore: 
+  - ''
+  - '&7散发着寒冷的气息'
+  item-id: XYDG
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE  
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SIYECAO
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SIYECAO
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SIYECAO
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SIYECAO
+      amount: 1
+    5:
+      type: VANILLA
+      id: FISHING_ROD
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SIYECAO
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SIYECAO
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SIYECAO
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SIYECAO
+      amount: 1       
+JTJ:
+  category: juzi_armor
+  item-type: SAVEDITEM 
+  item-name: "&b&l晶体剑"
+  item-lore: 
+  - ''
+  - '&7散发着寒冷的气息'
+  item-id: NMJTJ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE  
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: NANO
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: NANO
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1 
+JTG:
+  category: juzi_armor
+  item-type: SAVEDITEM 
+  item-name: "&b&l晶体镐"
+  item-lore: 
+  - ''
+  - '&7散发着寒冷的气息'
+  item-id: JTG
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE  
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: NANO
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: NANO
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: NANO
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: VANILLA
+      id: NETHERITE_BLOCK
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1            
+JTTK:
+  category: juzi_armor
+  item-type: SAVEDITEM 
+  item-name: "&b&l晶体头盔"
+  item-lore: 
+  - ''
+  - '&7散发着寒冷的气息'
+  item-id: JTTK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE  
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1 
+JTXJ:
+  category: juzi_armor
+  item-type: SAVEDITEM 
+  item-name: "&b&l晶体胸甲"
+  item-lore: 
+  - ''
+  - '&7散发着寒冷的气息'
+  item-id: JTXJ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE  
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+JTHT:
+  category: juzi_armor
+  item-type: SAVEDITEM 
+  item-name: "&b&l晶体护腿"
+  item-lore: 
+  - ''
+  - '&7散发着寒冷的气息'
+  item-id: JTHT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE  
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1 
+JTXZ:
+  category: juzi_armor
+  item-type: SAVEDITEM 
+  item-name: "&b&l晶体靴子"
+  item-lore: 
+  - ''
+  - '&7散发着寒冷的气息'
+  item-id: JTXZ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE  
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: JINGTIBM
+      amount: 1
+XRZZJ:
+  category: juzi_armor
+  item-type: SAVEDITEM 
+  item-name: "&2仙人掌战甲"
+  item-lore: 
+  - ''
+  - '&7散发着寒冷的气息'
+  item-id: XRZZJ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE  
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: DESERT_JT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CACTUS_CHESTPLATE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: DESERT_JT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: DESERT_JT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: DESERT_JT
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: DESERT_JT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: DESERT_JT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: DESERT_JT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: DESERT_JT
+      amount: 1   
+JHTK:
+  category: juzi_armor
+  item-type: SAVEDITEM 
+  item-name: "&b精华头盔"
+  item-lore: 
+  - ''
+  - '&7散发着寒冷的气息'
+  item-id: JHTK
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE  
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1 
+JHXJ:
+  category: juzi_armor
+  item-type: SAVEDITEM 
+  item-name: "&b精华胸甲"
+  item-lore: 
+  - ''
+  - '&7散发着寒冷的气息'
+  item-id: JHXJ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE  
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+JHHT:
+  category: juzi_armor
+  item-type: SAVEDITEM 
+  item-name: "&b精华护腿"
+  item-lore: 
+  - ''
+  - '&7散发着寒冷的气息'
+  item-id: JHHT
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE  
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1 
+JTXZ:
+  category: juzi_armor
+  item-type: SAVEDITEM 
+  item-name: "&b精华靴子"
+  item-lore: 
+  - ''
+  - '&7散发着寒冷的气息'
+  item-id: JHXZ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ARMOR_FORGE  
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: JHORE
+      amount: 1      
+GOLD_APPLE_MI:
+  category: juzi_food
+  item-type: CUSTOM
+  item-name: "&e金苹果"
+  item-lore: 
+  item-id: GOLDEN_APPLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: VANILLA
+      id: GOLD_INGOT
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: VANILLA
+      id: GOLD_INGOT
+      amount: 1
+    5:
+      type: VANILLA
+      id: APPLE
+      amount: 1
+    6:
+      type: VANILLA
+      id: GOLD_INGOT
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: VANILLA
+      id: GOLD_INGOT
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1  
+ENCH_APPLE_MI:
+  category: juzi_food
+  item-type: CUSTOM
+  item-name: "&e附魔金苹果"
+  item-lore: 
+  item-id: ENCHANTED_GOLDEN_APPLE
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: GOLD_24K_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: GOLD_24K_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    5:
+      type: VANILLA
+      id: APPLE
+      amount: 1
+    6:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: GOLD_24K_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: GOLD_BLOCK
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: GOLD_24K_BLOCK
+      amount: 1  
+YS_PO:
+  category: juzi_food
+  item-type: SAVEDITEM
+  item-name: "&f夜视药水"
+  item-lore: 
+  item-id: YSPO
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: ENDER_EYE
+      amount: 1
+    2:
+      type: VANILLA
+      id: ENDER_EYE
+      amount: 1
+    3:
+      type: VANILLA
+      id: ENDER_EYE
+      amount: 1
+    4:
+      type: VANILLA
+      id: ENDER_EYE
+      amount: 1
+    5:
+      type: SAVEDITEM
+      id: POTION
+      amount: 1
+    6:
+      type: VANILLA
+      id: ENDER_EYE
+      amount: 1
+    7:
+      type: VANILLA
+      id: ENDER_EYE
+      amount: 1
+    8:
+      type: VANILLA
+      id: ENDER_EYE
+      amount: 1
+    9:
+      type: VANILLA
+      id: ENDER_EYE
+      amount: 1  
+KH_PO:
+  category: juzi_food
+  item-type: SAVEDITEM
+  item-name: "&f抗火药水"
+  item-lore: 
+  item-id: KHPO
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: MAGMA_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    3:
+      type: VANILLA
+      id: MAGMA_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    5:
+      type: SAVEDITEM
+      id: POTION
+      amount: 1
+    6:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    7:
+      type: VANILLA
+      id: MAGMA_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: NETHERRACK
+      amount: 1
+    9:
+      type: VANILLA
+      id: MAGMA_BLOCK
+      amount: 1              
+JUZIDANGAO:
+  category: juzibirthday
+  item-type: CUSTOM
+  item-name: "&6橘子的生日蛋糕"
+  item-lore: 
+  - ''
+  - '&7橘子的生日蛋糕,看起来像是橘子味的'
+  - '&7上面好像画着小猪佩奇'
+  item-id: CAKE
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: SUGAR
+      amount: 1
+    2:
+      type: VANILLA
+      id: SUGAR
+      amount: 1
+    3:
+      type: VANILLA
+      id: SUGAR
+      amount: 1
+    4:
+      type: VANILLA
+      id: MILK_BUCKET
+      amount: 1
+    5:
+      type: VANILLA
+      id: EGG
+      amount: 1
+    6:
+      type: VANILLA
+      id: MILK_BUCKET
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: STARCH
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: STARCH
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: STARCH
+      amount: 1
+HERDANGAO:
+  category: herbirthday
+  item-type: CUSTOM
+  item-name: "&6她的生日蛋糕"
+  item-lore: 
+  - ''
+  - '&7某人的生日蛋糕,看起来像是荔枝味的'
+  - '&7上面好像画着星之卡比'
+  item-id: CAKE
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: SUGAR
+      amount: 1
+    2:
+      type: VANILLA
+      id: PINK_WOOL
+      amount: 1
+    3:
+      type: VANILLA
+      id: SUGAR
+      amount: 1
+    4:
+      type: VANILLA
+      id: MILK_BUCKET
+      amount: 1
+    5:
+      type: VANILLA
+      id: EGG
+      amount: 1
+    6:
+      type: VANILLA
+      id: MILK_BUCKET
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: STARCH
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: STARCH
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: STARCH
+      amount: 1      
+JUZIDANGAOZS:
+  category: juzibirthday
+  item-type: CUSTOM
+  item-name: "&6橘子的生日蛋糕(装饰)"
+  item-lore: 
+  - ''
+  - '&7橘子的生日蛋糕,看起来像是橘子味的'
+  - '&7上面好像画着小猪佩奇'
+  - '&7但凡能吃一点也不至于一点也吃不了'
+  item-id: SKULL8ccc284e4fc78fbe8fa4d140e9d8a5a2f57b902cd020faa10996b117f7d4ce1e
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: JUZIDANGAO
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1 
+HERDANGAOZS:
+  category: herbirthday
+  item-type: CUSTOM
+  item-name: "&6她的生日蛋糕(装饰)"
+  item-lore: 
+  - ''
+  - '&7"我再也不恋爱脑了"'
+  - '&72022.11.6'
+  item-id: SKULL5da558f13533ff29a185408aef49c5a0a9764873cdd7976b4d4f5c44aaace
+  item-amount: 1
+  placeable: true
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: HERDANGAO
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1                              
+YWZN:
+  category: juzi_item
+  item-type: SAVEDITEM
+  item-name: "&e游玩指南"
+  item-lore: 
+  item-id: YWZN
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: BOOK
+      amount: 1
+    2:
+      type: NONE
+      id: N/A
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: NONE
+      id: N/A
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1            
+      amount: 1            

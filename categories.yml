@@ -1,0 +1,46 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Categories
+juzi_fu:
+  type: nested
+  category-name: "&6橘子科技"
+  category-item: SKULLe0ee781b79b1fdc14ac08b50448cd9174f71e155516e3bf542a2d6c466eacf82  
+juzi_item:
+  type: sub
+  category-name: "&6橘子科技 &7- &e物品"
+  category-item: SKULL2454aa7783eadfa49e56e731c53f3ea861419dbdbda32066700a4aac9cc9aad7
+  parent: juzi_fu
+juzi_machine:
+  type: sub
+  category-name: "&6橘子科技 &7- &e机器"
+  category-item: SKULL4a6938f70e49f5a2ff59e5bdfbbe4236902bd91c3f5baca0101801f2e4a98560
+  parent: juzi_fu
+juzi_generator:
+  type: sub
+  category-name: "&6橘子科技 &7- &e发电机"
+  category-item: SKULL240775c3ad75763613f32f04986881bbe4eee4366d0c57f17f7c7514e2d0a77d
+  parent: juzi_fu
+juzi_capacitor:
+  type: sub
+  category-name: "&6橘子科技 &7- &e电容"
+  category-item: SKULLf4f0d2803c62f313b999b331ef66d0bb3f03fc958ae371b639d8e66eace9ec6
+  parent: juzi_fu       
+juzi_armor:
+  type: sub
+  category-name: "&6橘子科技 &7- &e武器与装备"
+  category-item: SKULL60ce43e0cdcea98dcc6f0be37b0f7745daaf2a7dc29bf13b3e78a65c6e
+  parent: juzi_fu  
+juzi_food:
+  type: sub
+  category-name: "&6橘子科技 &7- &e食物与药水"
+  category-item: SKULLe8f9eef5317cf4b85127075850980f30bf1a5805a3885978a08e317cc1802ad2
+  parent: juzi_fu  
+juzibirthday:
+  type: seasonal
+  category-name: "&6橘子的生日"
+  category-item: SKULL8ccc284e4fc78fbe8fa4d140e9d8a5a2f57b902cd020faa10996b117f7d4ce1e
+  month: 8
+herbirthday:
+  type: seasonal
+  category-name: "&6她的生日"
+  category-item: SKULL5da558f13533ff29a185408aef49c5a0a9764873cdd7976b4d4f5c44aaace
+  month: 7 
+
