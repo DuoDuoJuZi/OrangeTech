@@ -1,5 +1,5 @@
 ## OrangeTech
-Slimefun附属
+Slimefun附属\n
 如果您想以橘子科技为基础二次创作，请标明原作者(多多橘子)
 
 ## 注意事项
