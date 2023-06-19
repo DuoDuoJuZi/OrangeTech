@@ -2267,7 +2267,7 @@ YWZN:
   item-id: BARRIER
   item-amount: 1
   placeable: true
-  crafting-recipe-type: ENHANCED_CRAFTING_TABLE 
+  crafting-recipe-type: NONE 
   crafting-recipe:
     1:
       type: NONE
