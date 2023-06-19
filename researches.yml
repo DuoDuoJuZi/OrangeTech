@@ -36,8 +36,8 @@ ti:
   name: "钛"
   cost: 40
   items:
-    - TITANIUM
-    - TI
+    - TITANIUM_JUZI
+    - TI_ORE
 zhoucheng:
   id: 50005
   name: "精密机器"
@@ -146,7 +146,19 @@ jinpp:
   items:
     - GOLD_APPLE_MI
     - ENCH_APPLE_MI
-    
+ctr:
+  id: 50018
+  name: "纯天然"
+  cost: 20
+  items:
+    - NORCRY
+error:
+  id: 50019
+  name: "你是闲的蛋疼吗？"
+  cost: 4040404
+  items:
+    - 404_ERROR_1
+        
     
         
         

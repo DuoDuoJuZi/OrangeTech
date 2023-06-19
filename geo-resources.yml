@@ -1,8 +1,8 @@
 # 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Geo-Resources
-TI:
+TI_ORE:
   category: juzi_item
   item-type: CUSTOM
-  item-name: "&f钛"
+  item-name: "&f钛原矿"
   item-lore:
   item-id: SKULL324d23f0bb3e750ae4fe10a2a8490e8a028806b8a954c457be379d02b7d46502
   max-deviation: 2

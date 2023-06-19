@@ -32,7 +32,7 @@ juzi_food:
   type: sub
   category-name: "&6橘子科技 &7- &e食物与药水"
   category-item: SKULLe8f9eef5317cf4b85127075850980f30bf1a5805a3885978a08e317cc1802ad2
-  parent: juzi_fu  
+  parent: juzi_fu   
 juzibirthday:
   type: seasonal
   category-name: "&6橘子的生日"
@@ -43,4 +43,10 @@ herbirthday:
   category-name: "&6她的生日"
   category-item: SKULL5da558f13533ff29a185408aef49c5a0a9764873cdd7976b4d4f5c44aaace
   month: 7 
+error_locked:
+  type: locked
+  category-name: "&4&l404 ERROR"
+  category-item: BARRIER
+  parents:
+    - slimefun:electricity
 
