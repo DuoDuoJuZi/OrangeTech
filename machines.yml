@@ -829,15 +829,15 @@ FREEZER_4:
       amount: 1
     '7':
       type: SLIMEFUN
-      id: TITANIUM
+      id: TITANIUM_JUZI
       amount: 1
     '8':
       type: SLIMEFUN
-      id: TITANIUM
+      id: TITANIUM_JUZI
       amount: 1
     '9':
       type: SLIMEFUN
-      id: TITANIUM
+      id: TITANIUM_JUZI
       amount: 1
   recipes:
     '1':
