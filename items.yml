@@ -4,7 +4,7 @@ STARCH_MAC_ZHANSHI:
   item-type: CUSTOM
   item-name: "&8淀粉合成机"
   item-lore: 
-  item-id: SKULL7746248520b16319d784c0f5abedae3b22345a386fc099d7c53d2a45d7e4c331
+  item-id: SKULL7746248520b16319d784c0f5abedae3b22345a386fc099d7c53d2a45d7e4c331f
   item-amount: 1
   placeable: false
   crafting-recipe-type: NONE 
@@ -1246,15 +1246,15 @@ JINGTIBM:
       amount: 1
     7:
       type: SLIMEFUN
-      id: TITANIUM
+      id: TITANIUM_JUZI
       amount: 1
     8:
       type: SLIMEFUN
-      id: TITANIUM
+      id: TITANIUM_JUZI
       amount: 1
     9:
       type: SLIMEFUN
-      id: TITANIUM
+      id: TITANIUM_JUZI
       amount: 1   
 XYDG:
   category: juzi_armor
@@ -1784,7 +1784,7 @@ JHHT:
       type: SLIMEFUN
       id: JHORE
       amount: 1 
-JTXZ:
+JHXZ:
   category: juzi_armor
   item-type: SAVEDITEM 
   item-name: "&b精华靴子"

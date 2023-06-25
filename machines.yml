@@ -298,6 +298,46 @@ DY_MINE:
           type: NONE
           id: N/A
           amount: 1
+    '3':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: NETHERRACK
+          amount: 32
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: CRIMSON_STEM
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '4':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: CRIMSON_STEM
+          amount: 16
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: WARPED_STEM
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
 END_I:
   category: juzi_machine
   machine-name: '&e末地转换机'
@@ -503,6 +543,26 @@ END_MINE:
         '1':
           type: VANILLA
           id: CHORUS_FRUIT
+          amount: 1
+        '2':
+          type: NONE
+          id: N/A
+          amount: 1
+    '2':
+      speed-in-seconds: 5
+      input:
+        '1':
+          type: VANILLA
+          id: CHORUS_FRUIT
+          amount: 64
+        '2':
+          type: VANILLA
+          id: NETHER_STAR
+          amount: 1
+      output:
+        '1':
+          type: VANILLA
+          id: DRAGON_BREATH
           amount: 1
         '2':
           type: NONE
